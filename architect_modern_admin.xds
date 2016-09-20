@@ -1,0 +1,48 @@
+{
+    "name": "architect_modern_admin",
+    "settings": {
+        "cmd": {
+            "license": "custom",
+            "cmdVersion": "6.2.0.103",
+            "frameworkVersion": "6.2.0.981"
+        },
+        "urlPrefixTemplate": "http://localhost:{port}/{path}",
+        "urlPrefix": "http://localhost/",
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone",
+                "builtIn": true,
+                "height": 480,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "installStatus": "Not Installed"
+    },
+    "xdsVersion": "4.0.0",
+    "xdsBuild": 168,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "modern62",
+    "viewOrderMap": {
+        "view": [],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "d21313f0-543b-490e-a1e4-0cf6f5456643",
+            "43220a92-4652-4cdb-93e7-105b067f9cf1"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
