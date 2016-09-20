@@ -32,6 +32,21 @@
             },
             "name": "MyComponent",
             "designerId": "d5e88f98-65b2-470f-a505-060c231d95f0"
+        },
+        {
+            "type": "Ext.Button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "iconCls": "x-fa fa-bars",
+                "margin": "0 0 0 10",
+                "text": null
+            },
+            "name": "MyButton",
+            "designerId": "d8791ac2-8d9c-4d3b-89a3-3225d708ecae"
         }
     ]
 }

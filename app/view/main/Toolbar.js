@@ -18,7 +18,7 @@ Ext.define('Admin.view.main.Toolbar', {
     alias: 'widget.maintoolbar',
 
     requires: [
-        'Ext.Component'
+        'Ext.Button'
     ],
 
     docked: 'top',
@@ -29,6 +29,11 @@ Ext.define('Admin.view.main.Toolbar', {
             reference: 'logo',
             userCls: 'main-logo',
             html: 'Sencha'
+        },
+        {
+            xtype: 'button',
+            margin: '0 0 0 10',
+            iconCls: 'x-fa fa-bars'
         }
     ]
 
