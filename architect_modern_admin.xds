@@ -7,7 +7,7 @@
             "frameworkVersion": "6.2.0.981"
         },
         "urlPrefixTemplate": "http://localhost:{port}/{path}",
-        "urlPrefix": "http://localhost/",
+        "urlPrefix": "http://localhost:50878/",
         "canvasControls": {
             "viewportSize": {
                 "name": "iPhone",
@@ -33,7 +33,10 @@
     "upgradeVersion": 310000000001,
     "framework": "modern62",
     "viewOrderMap": {
-        "view": [],
+        "view": [
+            "d4f689ae-99db-4ddb-80f2-67482bafb431",
+            "33fff5e5-025a-40f2-890e-956b79f50faf"
+        ],
         "store": [],
         "controller": [],
         "model": [],

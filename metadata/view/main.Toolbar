@@ -1,0 +1,37 @@
+{
+    "type": "Ext.Toolbar",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "designer|userAlias": "maintoolbar",
+        "designer|userClassName": "main.Toolbar",
+        "docked": "top"
+    },
+    "name": "MyToolbar",
+    "designerId": "d4f689ae-99db-4ddb-80f2-67482bafb431",
+    "viewControllerInstanceId": "33fff5e5-025a-40f2-890e-956b79f50faf",
+    "viewModelInstanceId": "794b7b26-ff23-473f-a265-1caf28392eb9",
+    "cn": [
+        {
+            "type": "Ext.Component",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "html": "Sencha",
+                "reference": "logo",
+                "userCls": [
+                    "main-logo"
+                ]
+            },
+            "name": "MyComponent",
+            "designerId": "d5e88f98-65b2-470f-a505-060c231d95f0"
+        }
+    ]
+}
